@@ -1,0 +1,5 @@
+package com.bionime.blesamplecode.utils
+
+enum class BgmCommand {
+    WAIT_NOTIFY, OPEN_PCL, GET_MODEL_NAME, GET_FIRMWARE_VERSION, GET_TOTAL_RECORD_COUNT, GET_GLUCOSE_RECORD, STOP_BROADCAST
+}

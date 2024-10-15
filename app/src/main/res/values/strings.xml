@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BLESampleCode</string>
+    <string name="status">Status: %s</string>
+    <string name="permission_location_rationale">Location permission is needed to scan the bluetooth device.</string>
+    <string name="permission_location_denied">Location permission was denied. Please consider granting it in order to scan the bluetooth device!</string>
+    <string name="permission_location_never_ask_again">Location permission was denied with never ask again.</string>
+    <string name="permission_bluetooth_rationale">Bluetooth permission is needed to scan the bluetooth device.</string>
+    <string name="permission_bluetooth_denied">Bluetooth permission was denied. Please consider granting it in order to scan the bluetooth device!</string>
+    <string name="permission_bluetooth_never_ask_again">Bluetooth permission was denied with never ask again.</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+    <string name="not_open_ble">Please open the bluetooth.</string>
+    <string name="not_open_gps">Please open the gps.</string>
+    <string name="ok">OK</string>
+    <string name="scanning">Scanning. (5 sec)</string>
+    <string name="not_find_device">Bluetooth device not found.</string>
+    <string name="scan">Scan</string>
+</resources>
